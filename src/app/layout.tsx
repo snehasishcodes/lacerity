@@ -15,7 +15,7 @@ export default function RootLayout({ children, }: Readonly<{ children: React.Rea
 
 const metadataParams = {
 	title: "lacerity",
-	description: "genz developers building genz stuff.",
+	description: "building stuff that make a change. coming soon™",
 	images: ["/rounded.png"],
 	icons: {
 		icon: "/rounded.png",
