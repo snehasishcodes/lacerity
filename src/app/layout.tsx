@@ -16,19 +16,19 @@ export default function RootLayout({ children, }: Readonly<{ children: React.Rea
 const metadataParams = {
 	title: "lacerity",
 	description: "genz developers building genz stuff.",
-	images: ["/banner.png"],
+	images: ["/rounded.png"],
 	icons: {
 		icon: "/rounded.png",
 		shortcut: "/rounded.png",
 		apple: "/rounded.png"
 	},
 	siteName: "lacerity.com",
-	themeColor: "##9f8fff",
+	themeColor: "#9f8fff",
 	url: "https://lacerity.com",
 	metabase: new URL("https://lacerity.com"),
 	keywords: ["lacerity", "laceritydev", "lacerity.com", "laceritycom", "lacerity.dev", "developers", "genz developers"],
 	twitter: {
-		card: "summary_large_image",
+		card: "summary",
 		creator: "@laceritydev"
 	},
 	robots: {
