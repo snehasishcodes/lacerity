@@ -16,9 +16,9 @@ export default function Landing() {
 			</div>
 
 			<div className="flex flex-row justify-center items-center gap-6">
-				<SocialLink href="">discord</SocialLink>
-				<SocialLink href="">twitterx</SocialLink>
-				<SocialLink href="">instagram</SocialLink>
+				<SocialLink href="https://discord.com/invite/PGSMXHBCEP">discord</SocialLink>
+				<SocialLink href="https://x.com/laceritydev">twitterx</SocialLink>
+				<SocialLink href="https://instagram.com/laceritycom">instagram</SocialLink>
 			</div>
 
 			<div className="flex flex-col justify-center items-center gap-4">
