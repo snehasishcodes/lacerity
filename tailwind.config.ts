@@ -11,6 +11,7 @@ export default {
   	extend: {
   		colors: {
 			main: "#9f8fff",
+			mongocat: "#01EC64",
   			background: "hsl(var(--background))",
   			foreground: "hsl(var(--foreground))",
   			card: {

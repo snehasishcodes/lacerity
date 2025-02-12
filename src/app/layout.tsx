@@ -14,9 +14,9 @@ export default function RootLayout({ children, }: Readonly<{ children: React.Rea
 }
 
 const metadataParams = {
-	title: "lacerity",
-	description: "building stuff that make a change. coming soon™",
-	images: ["/rounded.png"],
+	title: "Lacerity",
+	description: "creative developers building stuff. soon to be an internet company.",
+	images: ["/banner.png"],
 	icons: {
 		icon: "/rounded.png",
 		shortcut: "/rounded.png",
@@ -28,8 +28,8 @@ const metadataParams = {
 	metabase: new URL("https://lacerity.com"),
 	keywords: ["lacerity", "laceritydev", "lacerity.com", "laceritycom", "lacerity.dev", "developers", "genz developers"],
 	twitter: {
-		card: "summary",
-		creator: "@laceritydev"
+		card: "summary_large_image",
+		creator: "@laceritycom"
 	},
 	robots: {
 		index: false,
